@@ -1,6 +1,0 @@
-{
-    "RemoteTelemetryKey": "<RemoteTelemetryKey>",
-    "LogFileFolderPath": "TS4WinUICs\\Logs",
-    "RepositoryFolderName": "TS4WinUICs",
-    "DiagnosticsTraceLevel": "Verbose"
-}
